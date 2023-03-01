@@ -73,12 +73,12 @@ const questions = [
     {
         type: 'input',
         name: 'how',
-        message: 'How will someone use this? (Required)',
+        message: 'How will someone use this project? (Required)',
         validate: howInput => {
             if (howInput) {
                 return true;
             } else {
-                console.log('Please enter what your project is!');
+                console.log('Please enter what your project is for!');
                 return false;
             }
         }
@@ -86,7 +86,7 @@ const questions = [
     {
         type: 'input',
         name: 'installation',
-        message: 'Please provide step-by-step installation instructions for your project. (Required)',
+        message: 'Please provide walkthrough installation instructions for your project. (Required)',
         validate: installInput => {
             if (installInput) {
                 return true;
