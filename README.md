@@ -8,7 +8,7 @@ This is a node.js application that uses user input from inquirer to populate a R
   
 ## Walkthrough Record
   
-<!-- ![README Generator](./professional-readMe-generator.gif) -->
+![README Generator](./professional-readMe-generator.gif)
 
 
 **[Walkthrough Video Link](https://app.screencastify.com/manage/videos/NSfGkUYE5y0ZWNMJDcie/)**
