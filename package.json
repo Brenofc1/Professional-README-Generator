@@ -1,7 +1,7 @@
 {
-  "name": "static-site",
+  "name": "aaa",
   "version": "1.0.0",
-  "description": "",
+  "description": "# As a user I want a code to easy create a Read me App.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,5 +10,14 @@
   "license": "ISC",
   "dependencies": {
     "inquirer": "8.2.4"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Brenofc1/Professional-README-Generator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Brenofc1/Professional-README-Generator/issues"
+  },
+  "homepage": "https://github.com/Brenofc1/Professional-README-Generator#readme"
 }
