@@ -10,10 +10,13 @@ This is a node.js application that uses user input from inquirer to populate a R
   
 ![README Generator](./professional-readMe-generator.gif)
 
-
 **[Walkthrough Video Link](https://app.screencastify.com/manage/videos/NSfGkUYE5y0ZWNMJDcie/)**
 
-  
+## Screenshot Sample README
+
+![Screenshot README Generated](./Screenshots-generated-README.jpg)
+
+ 
 ## User Story
   
 ```
@@ -45,6 +48,7 @@ THEN I shall be seamlessly redirected to the corresponding sections within the R
 ## Table of Contents
 - [Description](#description)
 - [Walkthrough Video Link](#walkthrough-video-link)
+- [Screenshot Sample README](#screenshot-sample-readme)
 - [User Story](#user-story)
 - [Acceptance Criteria](#acceptance-criteria)
 - [Table of Contents](#table-of-contents)
